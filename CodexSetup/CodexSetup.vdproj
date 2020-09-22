@@ -15,68 +15,68 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_151B46B62E4E4F4AAE5E31BA7491B787"
+        "MsmKey" = "8:_085ACF1098B549BC9FBDE58310D61D33"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_44B4AE3915FD4CFA99C3DBEBD179F4FD"
+        "MsmKey" = "8:_154C4C49DB364128B0AAD138E1FF53DF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8062124E6D284717BF10A449E1C1F0AB"
+        "MsmKey" = "8:_56C34A99CBAD4D9A8D313DA14BB21331"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_ABC5C930C6B544E39FC86907EA1C1DB5"
+        "MsmKey" = "8:_848611FAC0404B588D24AE2AB196087E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B2BA48FADB3D4DF1827FA126529A23CD"
+        "MsmKey" = "8:_ACD6D9B8195C4CA8966F8283EED9D83E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_C6ECA987019A47278C44988211F1A4CA"
+        "MsmKey" = "8:_B8D121C05C694202B2B5ABEA8EE8C31A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F1D69386EAD444EB9B044CCF9C5B3362"
+        "MsmKey" = "8:_D00E20138B1B4A1C86479AF7D2A7B460"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F47BC8973EDA47A4A8B826DA984D4B1B"
+        "MsmKey" = "8:_F6B6EFDE8CFB47E99742209AED251B77"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F650340628984E91BDF36EAA509C1482"
+        "MsmKey" = "8:_F8B0F1106E1A465AB25AC31961ADA868"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F1D69386EAD444EB9B044CCF9C5B3362"
+        "OwnerKey" = "8:_ACD6D9B8195C4CA8966F8283EED9D83E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F650340628984E91BDF36EAA509C1482"
+        "OwnerKey" = "8:_D00E20138B1B4A1C86479AF7D2A7B460"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -164,12 +164,12 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_151B46B62E4E4F4AAE5E31BA7491B787"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_085ACF1098B549BC9FBDE58310D61D33"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\codexlogo.ico"
-            "TargetName" = "8:codexlogo.ico"
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\jpeg62.dll"
+            "TargetName" = "8:jpeg62.dll"
             "Tag" = "8:"
-            "Folder" = "8:_C729BC4EDCE94B59850A59033D69661E"
+            "Folder" = "8:_AB373452DA7B4A1C9864873BF72C2297"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -184,29 +184,9 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_44B4AE3915FD4CFA99C3DBEBD179F4FD"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_154C4C49DB364128B0AAD138E1FF53DF"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\libtiff3.dll"
-            "TargetName" = "8:libtiff3.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E34A6D6A4EDF4BE488FCAE841DC4DCC1"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8062124E6D284717BF10A449E1C1F0AB"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CODEX\\target\\CODEX-1.0-jar-with-dependencies.jar"
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CODEX\\target\\CODEX-1.0-jar-with-dependencies.jar"
             "TargetName" = "8:CODEX-1.0-jar-with-dependencies.jar"
             "Tag" = "8:"
             "Folder" = "8:_C729BC4EDCE94B59850A59033D69661E"
@@ -224,9 +204,9 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ABC5C930C6B544E39FC86907EA1C1DB5"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_56C34A99CBAD4D9A8D313DA14BB21331"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\codexlogo.png"
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\codexlogo.png"
             "TargetName" = "8:codexlogo.png"
             "Tag" = "8:"
             "Folder" = "8:_C729BC4EDCE94B59850A59033D69661E"
@@ -244,61 +224,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2BA48FADB3D4DF1827FA126529A23CD"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_848611FAC0404B588D24AE2AB196087E"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\zlib1.dll"
-            "TargetName" = "8:zlib1.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E34A6D6A4EDF4BE488FCAE841DC4DCC1"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C6ECA987019A47278C44988211F1A4CA"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\tiffcp.exe"
-            "TargetName" = "8:tiffcp.exe"
-            "Tag" = "8:"
-            "Folder" = "8:_E34A6D6A4EDF4BE488FCAE841DC4DCC1"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F1D69386EAD444EB9B044CCF9C5B3362"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:CODEXUploader, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_F1D69386EAD444EB9B044CCF9C5B3362"
-                    {
-                    "Name" = "8:CODEXUploader.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\CODEXUploader.exe"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\codexlogo.ico"
+            "TargetName" = "8:codexlogo.ico"
             "Tag" = "8:"
             "Folder" = "8:_C729BC4EDCE94B59850A59033D69661E"
             "Condition" = "8:"
@@ -315,43 +244,114 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F47BC8973EDA47A4A8B826DA984D4B1B"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\jpeg62.dll"
-            "TargetName" = "8:jpeg62.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_E34A6D6A4EDF4BE488FCAE841DC4DCC1"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F650340628984E91BDF36EAA509C1482"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_ACD6D9B8195C4CA8966F8283EED9D83E"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:CODEXSegm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_F650340628984E91BDF36EAA509C1482"
+                    "_ACD6D9B8195C4CA8966F8283EED9D83E"
                     {
                     "Name" = "8:CODEXSegm.exe"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\CODEXSegm.exe"
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\CODEXSegm.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_C729BC4EDCE94B59850A59033D69661E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B8D121C05C694202B2B5ABEA8EE8C31A"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\libtiff3.dll"
+            "TargetName" = "8:libtiff3.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_AB373452DA7B4A1C9864873BF72C2297"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D00E20138B1B4A1C86479AF7D2A7B460"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CODEXUploader, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D00E20138B1B4A1C86479AF7D2A7B460"
+                    {
+                    "Name" = "8:CODEXUploader.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\CODEXUploader.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C729BC4EDCE94B59850A59033D69661E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F6B6EFDE8CFB47E99742209AED251B77"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\tiffcp.exe"
+            "TargetName" = "8:tiffcp.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_AB373452DA7B4A1C9864873BF72C2297"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F8B0F1106E1A465AB25AC31961ADA868"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\..\\NolanLab\\CodexSetupPreReq\\lib\\zlib1.dll"
+            "TargetName" = "8:zlib1.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_AB373452DA7B4A1C9864873BF72C2297"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -426,13 +426,13 @@
             "Property" = "8:TARGETDIR"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E34A6D6A4EDF4BE488FCAE841DC4DCC1"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_AB373452DA7B4A1C9864873BF72C2297"
                     {
                     "Name" = "8:lib"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_E1A26C18482246869EDB22FAECB2E495"
+                    "Property" = "8:_E7B6C6DD9EB44E438F038F814336244E"
                         "Folders"
                         {
                         }
@@ -576,21 +576,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_01546EA38BF144FBA993926E7A485983"
-            {
-            "Name" = "8:CODEXUploader.exe"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_F1D69386EAD444EB9B044CCF9C5B3362"
-            "Folder" = "8:_0DB9882E35EB4D0C9024699036FFF404"
-            "WorkingFolder" = "8:_C729BC4EDCE94B59850A59033D69661E"
-            "Icon" = "8:_151B46B62E4E4F4AAE5E31BA7491B787"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_41C378DFD4F7441594B9770C0AEE14BC"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_14E019623BD94E40A89044259AAE6387"
             {
             "Name" = "8:CODEXSegm.exe"
             "Arguments" = "8:"
@@ -598,13 +584,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_F650340628984E91BDF36EAA509C1482"
+            "Target" = "8:_ACD6D9B8195C4CA8966F8283EED9D83E"
             "Folder" = "8:_F9B5A774708C416EBE9E60FF45699D1C"
             "WorkingFolder" = "8:_C729BC4EDCE94B59850A59033D69661E"
-            "Icon" = "8:_151B46B62E4E4F4AAE5E31BA7491B787"
+            "Icon" = "8:_848611FAC0404B588D24AE2AB196087E"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_6DBD285FCA2F4FABBA6A0D1B9B0E8275"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_1FBD435836FF4BCCA64A426D59728C62"
             {
             "Name" = "8:CODEXSegm.exe"
             "Arguments" = "8:"
@@ -612,13 +598,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_F650340628984E91BDF36EAA509C1482"
+            "Target" = "8:_ACD6D9B8195C4CA8966F8283EED9D83E"
             "Folder" = "8:_0DB9882E35EB4D0C9024699036FFF404"
             "WorkingFolder" = "8:_C729BC4EDCE94B59850A59033D69661E"
-            "Icon" = "8:_151B46B62E4E4F4AAE5E31BA7491B787"
+            "Icon" = "8:_848611FAC0404B588D24AE2AB196087E"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_CA9B1F2F79694236B35A753A3BE9A155"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_67C66AA2B78641399F1160A568DEDFA2"
             {
             "Name" = "8:CODEXUploader.exe"
             "Arguments" = "8:"
@@ -626,10 +612,24 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_F1D69386EAD444EB9B044CCF9C5B3362"
+            "Target" = "8:_D00E20138B1B4A1C86479AF7D2A7B460"
+            "Folder" = "8:_0DB9882E35EB4D0C9024699036FFF404"
+            "WorkingFolder" = "8:_C729BC4EDCE94B59850A59033D69661E"
+            "Icon" = "8:_848611FAC0404B588D24AE2AB196087E"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D3B16756EA644FE788B4886903C221E1"
+            {
+            "Name" = "8:CODEXUploader.exe"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_D00E20138B1B4A1C86479AF7D2A7B460"
             "Folder" = "8:_F9B5A774708C416EBE9E60FF45699D1C"
             "WorkingFolder" = "8:_C729BC4EDCE94B59850A59033D69661E"
-            "Icon" = "8:_151B46B62E4E4F4AAE5E31BA7491B787"
+            "Icon" = "8:_848611FAC0404B588D24AE2AB196087E"
             "Feature" = "8:"
             }
         }
